@@ -8,4 +8,5 @@ My solution provides a fully observable, deterministic, discrete, and semidynami
 Pathfinding algorithms include depth first seach, unifrom cost search (essentially breadth first seach), and A-star.
 
 Created with Java 14. Make and Run files included. Commandline arguements for running:
+
 ./run.sh [algorithm] [heuristic] < *.vw
